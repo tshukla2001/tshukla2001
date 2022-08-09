@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanay Shukla</h1>
-<h3 align="center">An enthusiastic data scientist</h3>
+<h3 align="center">An aspiring data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshukla2001&label=Profile%20views&color=0e75b6&style=flat" alt="tshukla2001" /> </p>
 
