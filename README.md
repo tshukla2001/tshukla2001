@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tshukla2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Ff8Ue8eDMwpSKGhyrIXlNbIyqRoDXsAK?usp=sharing](https://drive.google.com/drive/folders/1Ff8Ue8eDMwpSKGhyrIXlNbIyqRoDXsAK?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/drive/folders/1Fab7AV_VopHCZCvpX08W_5yFIhbHIxWt?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
