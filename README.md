@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Python, Flask and various other frameworks**
+- 🌱 I’m currently learning **Deep Learning Concepts**
 
 - 📫 How to reach me **tshukla2001@gmail.com**
 
