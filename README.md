@@ -17,9 +17,6 @@
 <a href="https://instagram.com/tshukla_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshukla_2001" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tshuk01"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tshuk01" /></a></p><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshukla2001&show_icons=true&locale=en&layout=compact" alt="tshukla2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tshukla2001&show_icons=true&locale=en" alt="tshukla2001" /></p>
