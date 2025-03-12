@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanay Shukla</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Data Science and Generative AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshukla2001&label=Profile%20views&color=0e75b6&style=flat" alt="tshukla2001" /> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Generative AI and Data Science Projects**
 
-- 🌱 I’m currently learning **Deep Learning Concepts**
+- 🌱 I’m currently learning **Generative AI Concepts**
 
 - 📫 How to reach me **tshukla2001@gmail.com**
 
